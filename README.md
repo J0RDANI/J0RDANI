@@ -2,8 +2,10 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Full Stack Web App</b>
+- <b>Full Stack Bank Web App</b>
   - [Bank Web Application](https://github.com/J0RDANI/Bank-Web-App)
+- <b>Django Blog Web App</b>
+  - [Django Blog Application](https://github.com/J0RDANI/NICC-Website)
 
 <h2> 🤳 Connect with me:</h2>
 
