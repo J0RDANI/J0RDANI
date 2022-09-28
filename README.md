@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jordani! <br/><a href="https://github.com/J0RDANI">Programmer</a>, <a href="https://www.linkedin.com/in/jordani-jean-pierre-880380207/">Cybersecurity Student</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Web Development Projects:</h2>
 
 - <b>Full Stack Bank Web App</b>
   - [Bank Web Application](https://github.com/J0RDANI/Bank-Web-App)
