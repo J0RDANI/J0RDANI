@@ -5,7 +5,7 @@
 - <b>Full Stack Bank Web App</b>
   - [Bank Web Application](https://github.com/J0RDANI/Bank-Web-App)
 - <b>Django Blog Web App</b>
-  - [Django Blog Application](njiticc.com)
+  - [Django Blog Application](https://njiticc.com)
 
 <h2> 🤳 Connect with me:</h2>
 
