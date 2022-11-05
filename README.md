@@ -3,7 +3,7 @@
 <h2>👨‍💻 Web Development Projects:</h2>
 
 - <b>Full Stack Bank Web App</b>
-  - [Bank Web Application](https://github.com/J0RDANI/Bank-Web-App)
+  - [Bank Web Application](http://jj522-prod.herokuapp.com/Project/login.php)
 - <b>Django Blog Web App</b>
   - [Django Blog Application](https://njiticc.com)
 
